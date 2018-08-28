@@ -1,0 +1,5 @@
+- unit: test1
+  language: cpp
+  type: static library
+  sources:
+    - test1.cpp 
