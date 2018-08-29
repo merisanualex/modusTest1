@@ -2,4 +2,5 @@
   language: cpp
   type: static library
   sources:
-    - test1.cpp 
+    common:
+      - test1.cpp 
