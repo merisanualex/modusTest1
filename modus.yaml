@@ -1,4 +1,4 @@
-- target: test1
+- unit: test1
   language: cpp
   type: static library
   sources:
