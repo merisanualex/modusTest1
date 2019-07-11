@@ -1,4 +1,4 @@
 - target: test1
-  type: static library
+  type: static lib
   sources:
     - test1.cpp
